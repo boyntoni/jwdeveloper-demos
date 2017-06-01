@@ -1,0 +1,10 @@
+{
+  "title": "Adaptive Streaming (JH)",
+  "description": "This demo shows JW Player loading fragments by comparing your bandwidth to the available video bitrates.",
+  "license": "Premium",
+  "showCode" : false,
+  "author": {
+    "name": "Joshua Hatcher",
+    "githubUsername": "joshuahatcher"
+  }
+}
